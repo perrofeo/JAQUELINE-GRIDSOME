@@ -3,7 +3,7 @@ date: 2019-05-16
 year: 2019
 title: Banana
 category: Identity
-thumbnail: "/uploads/hiwia2"
+thumbnail: "/uploads/hiwia2.jpg"
 categories:
 - photography
 - pink
