@@ -31,8 +31,9 @@ fields:
       section: authors
       file: data/authors/nichlas-w-andersen.json
     required: true
-    options: []
+    options:
+    - Jaqueline Bica
   label: Author
-  default: Nichlas W. Andersen
+  default: ''
 pages:
 - journal/macos-development-environment.md

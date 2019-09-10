@@ -1,7 +1,7 @@
 ---
 date: 2019-05-16
 title: macOS development environment
-author: Nichlas W. Andersen
+author: Jaqueline Bica
 excerpt: Get up and running with a fresh macOS Mojave install
 
 ---
