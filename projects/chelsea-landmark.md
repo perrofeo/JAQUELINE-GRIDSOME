@@ -5,7 +5,7 @@ title: Home Is Where I Am
 category: Identity
 thumbnail: "/uploads/hiwia2.jpg"
 categories:
-- book art
+- artist's book
 - documental poetry
 project_bg_color: ''
 project_fg_color: ''
