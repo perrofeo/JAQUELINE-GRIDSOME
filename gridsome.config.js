@@ -4,7 +4,6 @@
 module.exports = {
   siteName: "Portfolio",
   siteUrl: `https://gifted-golick-fa1831.netlify.com/`,
-  host: "localhost",
   titleTemplate: "%s - NWA",
   siteDescription: "Creative technologist",
   plugins: [
