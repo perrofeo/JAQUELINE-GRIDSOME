@@ -7,7 +7,6 @@ thumbnail: "/uploads/hiwia2.jpg"
 categories:
 - book art
 - documental poetry
-- refugees
 project_bg_color: ''
 project_fg_color: ''
 
